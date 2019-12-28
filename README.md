@@ -1,6 +1,6 @@
 # customFileDialog_PyQt5
 
-Embeded FileDialog (Open/Save) using QDockWidget
+Embeded FileDialog (Open/Save) using QDockWidget in MainWindow
 
 ### Requirements:
 
